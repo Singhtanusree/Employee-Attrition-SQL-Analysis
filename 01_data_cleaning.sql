@@ -1,9 +1,7 @@
 
 -- PROJECT  : Employee Attrition Analysis
 -- FILE     : Data Cleaning & Validation
--- Author   : Tanushree singh 
 -- Tool     : MySQL Workbench
--- Date     : June 2025
 
 
 -- total rows imported
