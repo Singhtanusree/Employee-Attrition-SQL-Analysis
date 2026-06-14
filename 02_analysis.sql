@@ -1,9 +1,7 @@
 
 -- PROJECT  : Employee Attrition Analysis
 -- FILE     : Business Analysis Queries
--- Author   : Tanushree singh 
 -- Tool     : MySQL Workbench
--- Date     : June 2025
 
 
 --Q1: Which department has highest attrition?
